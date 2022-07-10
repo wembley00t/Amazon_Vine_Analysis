@@ -19,5 +19,6 @@ The number of 5-star reviews for the paid reviews totaled 229 compared to the to
 ![2nd question](https://user-images.githubusercontent.com/100876517/178127928-1e3da7b5-1401-4b4a-a1ba-a226ffe184f2.png)
 
 The paid reviews reflect that 35% of their reviews are 5-star reviews compared to 58% for the unpaid reviews.
+
 ![3rd question](https://user-images.githubusercontent.com/100876517/178127929-d8db099a-e675-4571-bbfe-6b56289e5f12.png)
 
