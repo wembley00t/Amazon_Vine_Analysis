@@ -27,6 +27,8 @@ An image of the final two data frames for paid and unpaid reviews is shown below
 
 
 
+## Dataset Findings
+
 * As detailed below, there are a total of 74,760 reviews in the dataset.  Paid reviews totaled 647 while unpaid reviews totaled 74,113.
 ![1st question](https://user-images.githubusercontent.com/100876517/178127926-5e5278e0-44ab-421c-9a1d-5ec7bdc4e9ed.png)
 
