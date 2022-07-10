@@ -52,4 +52,9 @@ An image of the final two data frames for paid and unpaid reviews is shown below
 The reviews in the Vine program do not indicate positivity bias.  Within the Vine paid reviews data, only 35% of the reviews are 5-star.  This is
 compared to 58% for the unpaid reviews.  
 
+Additional analysis to support the lack of positivity bias include:
+          
+          * Expand the results of the data by selecting total votes greater than 10 rather than 20.
+          * Complete the initial analysis for 1-star, 2-star and 3-star reviews to compare the results.
+
 
