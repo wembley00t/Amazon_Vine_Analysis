@@ -19,6 +19,13 @@ was created by continuing to filter the data.  This data frame filtered for help
 equal to 50%.  Finally 2 data frames were created based on filtering for the Vine program.  Reviews that were included in the Vine program are
 reflected in the paid reviews data frame.  Reviews not part of the Vine program were included in the unpaid reviews data frame.
 
+An image of the final two data frames for paid and unpaid reviews is shown below.  
+
+![paid reviews](https://user-images.githubusercontent.com/100876517/178141239-a5f6a06a-f315-427d-afae-02b33afbf08e.png)
+![unpaid reviews](https://user-images.githubusercontent.com/100876517/178141242-de783fbe-8e9e-44f5-b3fb-de76fb0a0a3c.png)
+
+
+
 
 * As detailed below, there are a total of 74,760 reviews in the dataset.  Paid reviews totaled 647 while unpaid reviews totaled 74,113.
 ![1st question](https://user-images.githubusercontent.com/100876517/178127926-5e5278e0-44ab-421c-9a1d-5ec7bdc4e9ed.png)
